@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGGg_nxJhQW5A/profile-displaybackgroundimage-shrink_350_1400/0/1656470862761?e=1661990400&v=beta&t=3Ky99biPk1PjUVviBV6LsVLkC32zwxGxrxCSomECAXM)
 
 <h1 align="center">Hi 👋, my name is Muhammad Iqbal</h1>
-<h3 align="center">Junior Frontend Enginer</h3>
+<h3 align="center">Junior Frontend Engineer</h3>
 <h4>I am a Junior Frontend Engineer with strong passion to learn new things. I am familiar with a JavaScript programming, and I have developed application system using ReactJS. Currently I am interested and learning about React Native. I enjoy reading and running on my spare time.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdiqbal19&label=Profile%20views&color=0e75b6&style=flat" alt="mhdiqbal19" /> </p>
