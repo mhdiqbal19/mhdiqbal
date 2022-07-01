@@ -1,5 +1,3 @@
-
-
 ![MasterHead](https://sunground.in/wp-content/uploads/2022/02/1web-development.gif)
 
 <h1 align="center">Hi <img src="https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952az2z8e5r038t0xx99umi4hkhpcitphwpkqs73pkn&rid=giphy.gif&ct=s" width="5%"> my name is Muhammad Iqbal</h1>
