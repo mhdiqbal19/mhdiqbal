@@ -1,4 +1,6 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQGGg_nxJhQW5A/profile-displaybackgroundimage-shrink_350_1400/0/1656470862761?e=1661990400&v=beta&t=3Ky99biPk1PjUVviBV6LsVLkC32zwxGxrxCSomECAXM)
+
+
+![MasterHead](https://sunground.in/wp-content/uploads/2022/02/1web-development.gif)
 
 <h1 align="center">Hi <img src="https://media1.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952az2z8e5r038t0xx99umi4hkhpcitphwpkqs73pkn&rid=giphy.gif&ct=s" width="5%"> my name is Muhammad Iqbal</h1>
 <h3 align="center">Junior Frontend Engineer</h3>
