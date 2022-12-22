@@ -1,13 +1,13 @@
 <!-- ![MasterHead](https://sunground.in/wp-content/uploads/2022/02/1web-development.gif)
  -->
 <h1 align="center">Hi <img src="https://r1.community.samsung.com/t5/image/serverpage/image-id/1629225i201B6FC3771A20C5?v=v2" width="5%"> my name is Muhammad Iqbal</h1>
-<h3 align="center">Junior Frontend Engineer</h3>
+<h3 align="center">I'am Junior Frontend Engineer</h3>
 <h4>I am a Junior Frontend Engineer with strong passion to learn new things.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdiqbal19&label=Profile%20views&color=0e75b6&style=flat" alt="mhdiqbal19" /> </p>
 
 - 🌱 I’m currently learning **new things**
-- 👨‍💻 All of my projects are available at [http://185.201.9.247/portfolio-miqbal/](http://185.201.9.247/portfolio-miqbal/)
+- 👨‍💻 All of my projects are available at [http://www.miqbal.site/](http://www.miqbal.site/)
 - 📝 I regularly write articles on [https://muhammadiqbal190794.blogspot.com/](https://muhammadiqbal190794.blogspot.com/)
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP and NodeJS**
 - 📫 How to reach me **muhammadiqbal190794@gmail.com**
